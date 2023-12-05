@@ -17,6 +17,12 @@ MarkdownParser.init()
 * ```italics(text)```: Converts any text in text surrounded by single asterisks to HTML italics.
 
 * ```bold(text)```: Converts any text in text surrounded by double asterisks to HTML bold.
+  
+* ```h1(text)```: Converts any text in a text prefixed by '#' into HTML h1 tags.
+  
+* ```h2(text)```: Converts any text in a text prefixed by '##' into HTML h2tags.
+
+* ```h3(text)```: Converts any text in a text that is prefixed by '###' into HTML h3 tags.
 
 * ```p(text)```: Wraps any text in text separated by newlines in HTML paragraph tags.
 
