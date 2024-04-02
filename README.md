@@ -1,5 +1,5 @@
 # Markdown Parser
-This is a simple Elixir module named ``MarkdownParser`` that converts Markdown text to HTML.
+This is a very simple Elixir module named ``MarkdownParser`` that converts Markdown text to HTML.
 
 ### Usage
 To use this module, call the ``init()`` function. It will prompt you for the location of your Markdown file and the desired output location for the HTML file.
